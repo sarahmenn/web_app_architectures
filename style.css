@@ -1,0 +1,16 @@
+body {
+    margin-right: auto;
+    margin-left: auto;
+    width: fit-content;
+    font-family: Arial;
+}
+
+h1, .link {
+    text-align: center;
+}
+
+.main-content {
+    background-color: rgb(255, 240, 240);
+    border: solid rgb(252, 105, 179);
+    padding: 20px;
+}
